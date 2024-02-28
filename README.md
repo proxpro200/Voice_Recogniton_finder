@@ -7,4 +7,4 @@ An AI model that extracts from specified folder with voice audio files with diff
 
 https://colab.research.google.com/drive/1yhpc4VuSNa6-Zl69G2hl7_qm7fm4Tv7T?usp=sharing
 
-{{badge https://colab.research.google.com/assets/colab-badge.svg}}
+{{badge https://colab.research.google.com/assets/colab-badge.svg }}
